@@ -16,7 +16,7 @@ The [`cpp_interactive.py`](/cpp_interactive.py) contains the main program.  The 
 
 replacing `[upper-left-lat]`, etc. with the corresponding coordinate.  Additionally, the following options may be specified:
     
-`--network_type [walk, bike, drive, drive_service, all, or all_private]`  Specify paths roads are loaded from osm. <br>
+`--network_type [walk, bike, drive, drive_service, all, or all_private]`  Specify which paths are loaded from osm. <br>
 `--map_type [satellite, elevation, terrain, or streets]`  Set a map for the background. <br>
 `--resolution [integer between 1 and 20]`  Set the resolution of the background map. <br>
 `--csv [string]`  The name of the output csv file.
