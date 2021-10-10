@@ -1,0 +1,8 @@
+osmnx
+pygame
+Pillow
+networkx
+pandas
+numpy
+shapely
+requests
