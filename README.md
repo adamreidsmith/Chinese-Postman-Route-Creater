@@ -1,5 +1,5 @@
 # Chinese Postman Route Creater
-An interactive program to solve the Chinese Postman Problem over a network or roads or paths.
+An interactive program to solve the Chinese Postman Problem over a network of roads or paths.
 
 ## Overview
 This code solves the [Chinese Postman Problem](https://en.wikipedia.org/wiki/Route_inspection_problem) over a network of roads or paths loaded from the geographic database open street map.  This program contains a simple editor to refine the road network before computing the optimal route over all roads.  A program is also included to view the route once it has been created.
