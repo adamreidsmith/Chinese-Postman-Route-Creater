@@ -19,6 +19,6 @@ replacing `[upper-left-lat]`, etc. with the corresponding coordinate.  Additiona
 `--network_type [walk, bike, drive, drive_service, all, or all_private]`  Specify which paths are loaded from osm. <br>
 `--map_type [satellite, elevation, terrain, or streets]`  Set a map for the background. <br>
 `--resolution [integer between 1 and 20]`  Set the resolution of the background map. <br>
-`--csv [string]`  The name of the output csv file.
-`--verbose`  Print information as the program runs.
-`--simplify`  Simplify the graph to remove interstitial nodes (experimental).
+`--csv [string]`  The name of the output csv file. <br>
+`--verbose`  Print information as the program runs. <br>
+`--simplify`  Simplify the graph to remove interstitial nodes (experimental). <br>
