@@ -5,7 +5,7 @@ An interactive program to solve the Chinese Postman Problem over a network of ro
 This code solves the [Chinese Postman Problem](https://en.wikipedia.org/wiki/Route_inspection_problem) (CPP) over a network of roads or paths loaded from the geographic database [OpenStreetMap](https://www.openstreetmap.org/).  The CPP is to find the shortest closed path that visits every edge in a connedted, undiredted graph (in this case, a road or trail map).  This program contains a simple editor to refine the road network before computing the optimal, and a program to view the route once it has been created.  This project was originally developed to map a minimal length [route](https://www.strava.com) over all trails at the Revelstoke Nordic Ski Club.  Later, this was used to map a [road cycling route](https://www.strava.com) over all roads in Revelstoke, BC.
 
 ## Motivation
-This project was originally developed to map a minimal length route over all trails at the Revelstoke Nordic Ski Club.  Later, this was used to map a road cycling route over all roads in Revelstoke, BC.  The ski route is available on Strava [here](/https://www.strava.com), and the road cycling route is available [here](/https://www.strava.com).
+This project was originally developed to map a minimal length route over all trails at the Revelstoke Nordic Ski Club.  Later, this was used to map a road cycling route over all roads in Revelstoke, BC.  The ski route is available on Strava [here](https://www.strava.com), and the road cycling route is available [here](https://www.strava.com).
 
 ## Installation
     $ git clone https://github.com/adamreidsmith/Chinese-Postman-Route-Creater
