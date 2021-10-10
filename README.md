@@ -7,7 +7,7 @@ This code solves the [Chinese Postman Problem](https://en.wikipedia.org/wiki/Rou
 ![vancouver editor sample](/assets/vancouver.png)
 
 ## Motivation
-This project was originally developed to map a minimal length route over all trails at the Revelstoke Nordic Ski Club.  Later, this was used to map a road cycling route over all roads in Revelstoke, BC.  The ski route is available on Strava [here](https://www.strava.com), and the road cycling route is available [here](https://www.strava.com).
+This project was originally developed to map a minimal length route over all trails at the Revelstoke Nordic Ski Club.  Later, this was used to map a road cycling route over all roads in Revelstoke, BC.  The ski route is available on Strava [here](https://www.strava.com/activities/4664245779), and the road cycling route is available [here](https://www.strava.com/activities/5825954802).
 
 ## Installation
     $ git clone https://github.com/adamreidsmith/Chinese-Postman-Route-Creater
